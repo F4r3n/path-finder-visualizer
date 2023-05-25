@@ -1,6 +1,5 @@
 <script>
     import App from "../lib/App.svelte"
-  </script>
+</script>
   
-  <h1>Welcome to SvelteKit</h1>
   <App />
